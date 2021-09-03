@@ -13,11 +13,14 @@ export class NavBar extends React.Component {
         <li className="nav-item">
           <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
-        <li className="nav-item">
-          <a className="nav-link" href="/">About</a>
-        </li>
-        
-        
+        <li className="nav-item"><a className="nav-link" href="/">About</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">Business</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">Entertainment</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">general</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">heath</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">science</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">sports</a></li>
+        <li className="nav-item"><a className="nav-link" href="/">technology</a></li>
       </ul>
      
     </div>
